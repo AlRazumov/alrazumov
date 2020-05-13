@@ -22,3 +22,11 @@ body {
   font-family: sans-serif;
   text-align: center;
 }
+.footer {
+  background-color: slategray;
+  padding: 50px;
+  font-size: 32px;
+  font-family: sans-serif;
+  color: #fff;
+  text-align: center;
+}
